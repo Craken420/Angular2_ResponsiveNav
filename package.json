@@ -1,5 +1,5 @@
 {
-  "name": "responsive-nav",
+  "name": "angular2_responsive-nav",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -9,6 +9,12 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "author": "Luis Angel Peña Zuñiga",
+  "keywords": [
+    "angular-cli",
+    "typescript",
+    "material"
+  ],
   "private": true,
   "dependencies": {
     "@angular/animations": "~11.0.0",
